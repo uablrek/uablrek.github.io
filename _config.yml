@@ -1,0 +1,14 @@
+theme: jekyll-theme-hacker
+title: "Things I like to describe"
+description: ""
+url: "https://uablrek.github.io"
+
+author:
+  name: "Lars Ekman"
+  location: "Stockholm, Sweden"
+  email: "uablrek@gmail.com"
+  github: "uablrek"
+
+plugins:
+  - jekyll-sitemap
+  
