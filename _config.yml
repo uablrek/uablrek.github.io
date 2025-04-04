@@ -12,4 +12,9 @@ author:
 defaults:
   - scope:
       path: ""
+    values:
       language: "sv"
+  - scope:
+      path: "_posts/en"
+    values:
+      language: "en"
