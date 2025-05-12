@@ -10,7 +10,7 @@ sig*. Till exempel:
     resterna
 
 * **Miljöförstöring** - Inte bara global uppvärmning, även förstöring
-    av ekosystem som leder till minskat naturligt CO<sub>2</sub> upptag
+    av ekosystem som leder till minskat naturligt CO<sub>2</sub>-upptag
 	och minskad biologisk mångfald, plast, PFAS, höjd havsnivå osv.
 
 * **Matkris** - Utfiskning och utarmning av jordar. Dagens
@@ -25,7 +25,8 @@ sig*. Till exempel:
     
 * **Politisk kris** - I dåliga tider behövs samarbete. Istället kommer
     auktoritära ledare få/ta makten. Dom har "lösningar" som
-    inbegriper konflikter, både nationellt och internationellt
+    inbegriper konflikter, både nationellt och internationellt, tex
+	krig och handelshinder
 
 * **Transportkris** - Lätt att glömma men *allt* kräver transporter,
     lokalt, nationellt och internationellt. Nästan alla transporter
@@ -65,8 +66,9 @@ vanligt en dag och nästa dag funkar inte el och vatten, butikshyllorna
 är tomma men kontokortet funkar ändå inte, etc. Men dessa saker
 *kommer* att inträffa. Inte direkt och på samma gång, men ibland och
 oftare med tiden. Orsakerna är flera (poly=många), tex
-miljökatastrofer, politiska oroligheter (krig, upplopp), ekonomisk
-depression, störningar i internationell handel, etc.
+miljökatastrofer, politiska oroligheter (krig, upplopp), eftersatt
+underhåll, ekonomisk depression, störningar i internationell handel,
+etc.
 
 Det som kan komma plötsligt är en global finanskrash (GFC2) eller ett
 kärnvapenkrig.
@@ -79,9 +81,9 @@ konsumtion. Skatteunderlaget minskar och underhåll av infrastruktur
 Jag tror mobilt/fast bredband kommer fortsätta fungera. Just denna
 infrastruktur kommer att prioriteras.
 
-Det behöver inte bli en kollaps. Det kan bli liknade situation som
-under covid år efter år, men utan isolering. Inte så bra som
-tidigare, eller som man kunde önska, men ljuspunkter ändå.
+Det behöver inte bli en kollaps. Det kan bli en liknade situation som
+under covid år efter år, men utan isolering. Inte så bra som tidigare,
+eller som man kunde önska, men ljuspunkter ändå.
 
 ## Vad kan man göra?
 
@@ -123,13 +125,13 @@ samlat några här:
   https://chunksofchange.substack.com/p/61-polykris-metakris-existentiell) (sv) -
   Förklarar begrepp på ett bra sätt
 
+* [On Preempting Collapse](
+  https://thehonestsorcerer.substack.com/p/on-preempting-collapse?utm_source) (en) -
+  Bra post om overshoot, varför vi har den, och vart det kan leda
+
 * [Collapse Will Look Nothing Like the Movies](
   https://thehonestsorcerer.substack.com/p/collapse-will-look-nothing-like-in) (en) -
   En av många på detta tema
-
-* [Conservation, Saving Species, Fighting Climate Change, and Rebelling Against Extinction](
-  https://erikmichaels.substack.com/p/conservation-saving-species-fighting) (en) -
-  om att missa helheten
 
 * [Design or Disaster](
 https://www.ted.com/talks/gaya_herrington_will_the_end_of_economic_growth_come_by_design_or_disaster/transcript) -
