@@ -1,8 +1,13 @@
-# Polykrisen och Overshoot - en översikt
+---
+layout: post
+title: Polykrisen och Overshoot - en översikt
+---
 
 Polykrisen är att det vi upplever nu inte är *en* kris, tex global
 uppvärming, utan många kriser på en gång *som inte kan hanteras var för
-sig*. Till exempel:
+sig*.
+
+Till exempel:
 
 * **Resursbrist** - Tex mineraler och fossila bränslen (olja). Dessa
     kommer *aldrig* ta helt slut, men bli svårare (dyrare) att
