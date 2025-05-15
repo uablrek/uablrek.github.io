@@ -2,7 +2,7 @@
 layout: default
 ---
 
-{% assign siteposts = site.posts | where: 'language',page.language %}
+{% assign siteposts = site.posts | where: "language", "svenska" %}
 {% for post in siteposts %}
 
 # {{ post.title }}

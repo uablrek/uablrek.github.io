@@ -1,6 +1,8 @@
 ---
 layout: post
+language: svenska
 title: Polykrisen och Overshoot - en översikt
+tags: ["miljö", "energi"]
 ---
 
 Polykrisen är att det vi upplever nu inte är *en* kris, tex global
