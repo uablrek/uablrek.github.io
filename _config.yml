@@ -4,10 +4,8 @@ description: "Saker jag vill skriva om för mig själv och andra"
 url: "https://uablrek.github.io"
 
 author:
-  name: "Lars Ekman"
-  location: "Stockholm, Sweden"
+  name: Lars Ekman
   email: "uablrek@gmail.com"
-  github: "uablrek"
 
 defaults:
   - scope:
