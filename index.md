@@ -14,7 +14,8 @@ layout: default
 
 {% endfor %}
 
-<h2>In English</h2>
+<hr/>
+<h1>In English</h1>
 
 {% assign siteposts = site.posts | where: "language", "english" %}
 {% for post in siteposts %}
