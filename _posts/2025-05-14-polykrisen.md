@@ -17,13 +17,14 @@ Till exempel:
     resterna
 
 * **Miljöförstöring** - Inte bara global uppvärmning, även förstöring
-    av ekosystem som leder till minskat naturligt CO<sub>2</sub>-upptag
-	och minskad biologisk mångfald, plast, PFAS, höjd havsnivå osv.
+    av ekosystem som leder till minskat naturligt
+    CO<sub>2</sub>-upptag och minskad biologisk mångfald (resilience),
+    plast, PFAS, höjd havsnivå osv.
 
 * **Matkris** - Utfiskning och utarmning av jordar. Dagens
-    industriella jordbruk bygger på användande av konstgödsel och
-    gifter som tillverkas mha fossila bränslen, och som blir svårare
-    att få tag på (dyrare). Dessutom kommer fler miljökatastrofer
+    industriella jordbruk kräver konstgödsel och gifter som tillverkas
+    mha fossila bränslen och som blir svårare att få tag på
+    (dyrare). Dessutom kommer fler miljökatastrofer
 
 * **Ekonomisk kris** - Mycket talar för en till "Global Financial
     Crisis" (GFC2). Som 2008 fast värre. Man har byggt ett enormt
@@ -49,7 +50,7 @@ https://chunksofchange.substack.com/p/61-polykris-metakris-existentiell).
 
 ## Overshoot
 
-<img src="/assets/overshoot.svg" width="65%" />
+<img src="/assets/overshoot.svg" width="75%" />
 
 Grundproblemet är overshoot. Vi har överutnyttjat jordens resurser
 under lång tid och därmed förbrukat eller förstört dom (Degraded
@@ -92,6 +93,7 @@ Det behöver inte bli en kollaps. Det kan bli en liknade situation som
 under covid år efter år, men utan isolering. Inte så bra som tidigare,
 eller som man kunde önska, men ljuspunkter ändå.
 
+
 ## Vad kan man göra?
 
 Politiskt, inte mycket. Rösta inte på autoritära ledare ledare som har
@@ -110,7 +112,7 @@ Tro inte att staten kommer till räddning i en kris. Den lilla
 pamfletten [Om krisen eller kriget kommer](
 https://rib.msb.se/filer/pdf/30828.pdf) säger att du får klara dig
 själv. Sedan förväntas "marknaden" ha gjort allt nödvändigt
-tillgängligt igen (om du har råd). Det finns inga planer för
+tillgängligt igen (om du har råd). Det finns inga krisplaner för
 matdistribution, ransonering, evakuering, etc, etc. Tipsen för att
 klara sig själv *ett tag* är dock bra.
 
