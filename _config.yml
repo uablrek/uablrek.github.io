@@ -1,4 +1,4 @@
-remote_theme: "jekyll/minima@1e8a445"
+theme: "minima"
 title: "Lars Ekman's blog"
 description: "Saker jag vill skriva om för mig själv och andra"
 url: "https://uablrek.github.io"
