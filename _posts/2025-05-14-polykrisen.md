@@ -47,7 +47,7 @@ https://chunksofchange.substack.com/p/61-polykris-metakris-existentiell).
 
 ## Overshoot
 
-<img src="overshoot.svg" width="65%" />
+<img src="/assets/overshoot.svg" width="65%" />
 
 Grundproblemet är overshoot. Vi har överutnyttjat jordens resurser
 under lång tid och därmed förbrukat eller förstört dom (Degraded
@@ -148,7 +148,7 @@ https://www.ted.com/talks/gaya_herrington_will_the_end_of_economic_growth_come_b
 > it happen. We will sail off the cliff blaming each other all the way
 > down....
 
-* [Overshoot grafen](overshoot.svg) är under [CC0 license](
+* [Overshoot grafen](/assets/overshoot.svg) är under [CC0 license](
   https://creativecommons.org/publicdomain/zero/1.0/), dvs du får
   ladda ner den och använda den. Tex ändra med
   [Inkscape](http://www.inkscape.org/)
