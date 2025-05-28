@@ -106,7 +106,18 @@ men kan mildra (mitigate) effekterna.
 
 Stoppa inte huvudet i sanden. Hopp och optimism måste ha
 verklighetsförankring. Inte typ "Jag tror AI och fusionskraft kommer
-lösa alla problem" (därför gör jag ingenting).
+lösa alla problem". Detta är förresten vad jag tror en AI skulle svara
+([ref](https://thehonestsorcerer.substack.com/p/2025-a-civilizational-tipping-point)):
+
+> At this point, if we had access to a truly general AI capable of
+> understanding our world with all its interrelatedness, it would say
+> only this:
+>
+> “You shouldn’t have embarked on this journey, and destroyed the
+> planet in the process to ask me at the very end what to do. There is
+> nothing left to do to prevent collapse. Now, its time to prepare for
+> a long, hard and bumpy landing. Oh, and try not to exterminate
+> yourselves in the process. Good day, and good luck.”
 
 Tro inte att staten kommer till räddning i en kris. Den lilla
 pamfletten [Om krisen eller kriget kommer](
