@@ -145,6 +145,9 @@ samlat några här:
   https://chunksofchange.substack.com/p/61-polykris-metakris-existentiell) (sv) -
   Förklarar begrepp på ett bra sätt
 
+* [Vad unga kan vänta sig 2050](https://www.bikex.net/) (en). Bra site.
+  Beskriver 2050 som "same, better, worse". Riktar sig till unga.
+
 * [On Preempting Collapse](
   https://thehonestsorcerer.substack.com/p/on-preempting-collapse?utm_source) (en) -
   Bra post om overshoot, varför vi har den, och vart det kan leda
