@@ -13,7 +13,7 @@ kortfattad. Det finns *massor* mer att lära, men detta är ett minimum
 enligt min åsikt. Antagligen vet du mer än vår energiminister om
 kärnkraft när du läst detta.
 
-Min egen åsikt är att man ska satsa på SMR'er, helst Thorium-reaktorer.
+Min egen åsikt är att man ska satsa på Thorium-reaktorer, kanske SMR'er.
 
 
 ## Uran
@@ -112,18 +112,21 @@ världens största Thorium reserver, är också i experimenttagen.
 
 ### SMR
 
-Med Small Modular Reactor (SMR) menas en liten reaktor som kan byggas
-i en fabrik och installeras som moduler. "Liten" i det här fallet
-menas mindre än 300 MWe (elektrisk effekt). En SMR *behöver* inte vara
-en breed-reaktor men *kan* vara det.
+Med Small Modular Reactor (SMR) menas en liten reaktor som kan
+installeras som moduler. "Liten" i det här fallet menas mindre än 300
+MWe (elektrisk effekt). Storleksmässigt är dock en SMR [inte precis
+liten](https://en.cnnc.com.cn/2024-02/07/c_1023370.htm):
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Figure_4_Illustration_of_a_light_water_small_modular_nuclear_reactor_%28SMR%29_%2820848048201%29.jpg" style="width: 60%; height: auto" />
+
+
+En SMR *behöver* inte vara en breed-reaktor men *kan* vara det.
 SMR'er är ofta "high-temperature", dvs har mycket högre
 arbetstemperatur än lättvatten-reaktorer. Detta kräver ett annat
-kylmedium än vatten, tex gas eller flytande metall. En (potentiellt)
-stor fördel med det är att man kan använda dom i processer som kräver
-hög temperatur och där el inte kan användas. Om det är värmen man vill
-åt (thermal effect) så rusar verkningsgraden upp, säkert en bit över
-90%.
+kylmedium än vatten, tex gas eller flytande metall. En (potentiell)
+fördel med det är att man kan använda dom i processer som kräver hög
+temperatur. Om det är värmen man vill åt (thermal effect) så rusar
+verkningsgraden upp, säkert en bit över 90%.
 
 
 ### MOX-bränsle
