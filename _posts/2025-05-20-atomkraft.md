@@ -61,8 +61,10 @@ reaktorer](https://sv.wikipedia.org/wiki/L%C3%A4ttvattenreaktor)
 (lättvatten=vanligt vatten). Bränslet är anrikat uran. De finns i två
 typer, [kokvattenreaktorer](
 https://sv.wikipedia.org/wiki/Kokvattenreaktor) (BWR) och
-[tryckvattenreaktor](https://sv.wikipedia.org/wiki/Tryckvattenreaktor) (PWR).
-Nybyggda reaktorer är nästan alltid tryckvattenreaktor.
+[tryckvattenreaktor](https://sv.wikipedia.org/wiki/Tryckvattenreaktor)
+(PWR).  Nybyggda reaktorer är nästan alltid tryckvattenreaktor.
+[I Sverige](https://sv.wikipedia.org/wiki/K%C3%A4rnkraft_i_Sverige) är
+Ringhals (2st) av PWR typ, övriga (4st) är BWR.
 
 De flesta producerar runt 1GW el (GWe). Men med en verkningsgrad på ca
 35% är den totala effekten (termisk effekt) ca 3 ggr
