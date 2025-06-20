@@ -159,7 +159,8 @@ Finska [Olkiluoto 3](
 https://sv.wikipedia.org/wiki/Olkiluoto_k%C3%A4rnkraftverk) påbörjades
 2005 med planerad driftstart 2009 men kunde startas först 2023!
 Kostnaden beräknades till 3,2 miljarder EUR men notan hamnade på 11
-miljarder EUR! En reaktor av samma typ (EPR) började byggas 2007 i
+miljarder EUR! En reaktor av samma typ ([EPR](
+https://en.wikipedia.org/wiki/EPR_(nuclear_reactor))) började byggas 2007 i
 [Frankrike](https://en.wikipedia.org/wiki/Flamanville_Nuclear_Power_Plant)
 och blev klar 2024, [men är inte i drift](
 https://www.reuters.com/business/energy/newest-french-reactor-faces-further-delays-due-new-issues-2025-04-11/)
