@@ -6,8 +6,7 @@ tags: ["energi"]
 ---
 
 Tiden vi lever i just nu är unik. Det finns inget liknande tidigare
-och kommer aldrig finnas senare. Vi lever i [The Carbon Pulse](
-https://www.youtube.com/watch?v=BjG7a58Y0Ig).
+och kommer aldrig finnas senare. Vi lever i "The Carbon Pulse".
 
 År 1956 skrev [King Hubbert](https://en.wikipedia.org/wiki/M._King_Hubbert)
 dokumentet [Nuclear Energy and the Fossil Fuels](
@@ -23,6 +22,7 @@ den korta tiden och utveckla kärnkraften för att ersätta fossila
 bränslen. Detta har inte hänt. Istället har vi skapat ett ordentligt
 [overshoot]({% post_url 2025-05-14-polykrisen %}#overshoot).
 
+Se även Nate Hagens [pod-cast](https://www.youtube.com/watch?v=BjG7a58Y0Ig).
 
 ## Varför har inget gjorts?
 
