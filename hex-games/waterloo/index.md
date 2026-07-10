@@ -12,4 +12,4 @@ https://en.wikipedia.org/wiki/Napoleon_at_Waterloo_(board_wargame)) (NaW)
 Please read more on [github](
 https://github.com/uablrek/hex-games/blob/main/waterloo/README.md)
 
-** [Solitarie Game](waterloo.html) - Only option for now
+* **[Solitarie Game](waterloo.html)** - Only option for now
