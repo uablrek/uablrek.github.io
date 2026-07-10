@@ -22,8 +22,8 @@ https://github.com/uablrek/hex-games/blob/main/ws-im/README.md).
     default you (human) plays the Nordic side, but you can play as the
 	[British](ws-im.html?sc=nordic&ai=solo&player=br).
 
-* **[Trafalgar](ws-im.html?sc=trafalgar)** - Original scenario
-    15. Since ships arriving at later turns is not implemented yet,
+* **[Trafalgar](ws-im.html?sc=trafalgar)** - Original scenario 15.
+    Since ships arriving at later turns is not implemented yet,
     this is more of a solitarie (non-AI) example.
 
 * **[Trafalgar extended](ws-im.html?sc=trafalgar2)** - An extended
@@ -31,8 +31,8 @@ https://github.com/uablrek/hex-games/blob/main/ws-im/README.md).
     deployed from start. Also French ships Achille and Agronaute are
     moved into the French/Spanish line.
 
-* **[Battle of the Nile](ws-im.html?sc=nile) - Original scenario
-    11. This scenario is a solitarie (non-AI) example with land. As
+* **[Battle of the Nile](ws-im.html?sc=nile)** - Original scenario 11.
+    This scenario is a solitarie (non-AI) example with land. As
     with Trafalgar, ships arriving at later turns are not implemented.
 
 * **[User Defined](ws-im.html?sc=user)** - If the game is loaded
