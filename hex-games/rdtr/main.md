@@ -1,8 +1,4 @@
----
-layout: post
-language: english
-title: Rise and Decline of the Third Reich - Game
----
+# Rise and Decline of the Third Reich - Game
 
 This is a browser version of the board game [Rise and Decline of the
 Third Reich](
