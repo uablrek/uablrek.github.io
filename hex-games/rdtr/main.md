@@ -1,5 +1,3 @@
-# Rise and Decline of the Third Reich - Game
-
 This is a browser version of the board game [Rise and Decline of the
 Third Reich](
 https://boardgamegeek.com/boardgame/1563/rise-and-decline-of-the-third-reich)
