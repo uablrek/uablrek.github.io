@@ -1,9 +1,3 @@
----
-layout: default
-language: english
-title: Hex-games
----
-
 I played turn-based games on hex-grids in the late 1970, and have
 wanted to write a computer version for a long time. I have actually
 started (and abandoned) such projects at least 3 times. The problem
