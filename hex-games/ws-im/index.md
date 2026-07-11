@@ -1,8 +1,3 @@
----
-layout: default
-title: Wooden Ships & Iron Men
----
-
 A browser version of the board game [Wooden Ships & Iron Men](
 https://boardgamegeek.com/boardgame/237/wooden-ships-and-iron-men) (WS&IM).
 Please read more on [github](
