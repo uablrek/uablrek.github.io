@@ -32,11 +32,11 @@ function shuffle() {
 function load_table() {
 	index = 0 
 	shuffle()
-	tc = '<tr id="tr0"><td><img src="images/Q-arrow_54x40.png"/></td><td class="select">'
+	tc = '<tr id="tr0"><td><img src="/assets/Q-arrow_54x40.png"/></td><td class="select">'
 		+ lands[0].land  + '</td></tr>'
 	for (i = 1; i < len; i++) {
 		tc = tc + '<tr id="tr' + i 
-			+ '"><td><img src="images/qg16x16.png"/></td><td>' 
+			+ '"><td><img src="/assets/qg16x16.png"/></td><td>' 
 			+ lands[i].land + '</td></tr>' 
 	}
 	document.getElementById('landq1').innerHTML = tc
@@ -46,13 +46,13 @@ function lselect(e) {
 	if (index > max || busy) return
 	const tr = document.getElementById("tr" + index) // Table row
 	if (e.target.id == lands[index].id) {
-		const c = '<td><img src="images/yes16x16.png"/></td><td>'
+		const c = '<td><img src="/assets/yes16x16.png"/></td><td>'
 			  + lands[index].land  + '</td>'
 		tr.innerHTML = c
 		selectnext()		
 	} else {
 		busy = true		
-		const c = '<td><img src="images/no16x16.png"/></td><td>'
+		const c = '<td><img src="/assets/no16x16.png"/></td><td>'
 			+ lands[index].land  + '</td>'
 		const o = document.getElementById(lands[index].id)
 		o.setAttribute('fill', '#707070')
@@ -68,7 +68,7 @@ function selectnext() {
 	index++
 	if (index > max) return
 	const c =
-		'<td><img src="images//Q-arrow_54x40.png"/></td><td class="select">'
+		'<td><img src="/assets//Q-arrow_54x40.png"/></td><td class="select">'
 		+ lands[index].land  + '</td>'
 	const id = "tr" + index
 	document.getElementById(id).innerHTML = c
