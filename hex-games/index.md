@@ -8,11 +8,10 @@ Current projects:
 
 * **[Wooden Ships & Iron Men](/hex-games/ws-im/)** (WS&IM) - Sea battles with
     ships from the Napoleonic era.
-
 * **[Waterloo](/hex-games/waterloo/)** (NaW) - The famous battle in 1815.
-
 * **[Rise and Decline of the Third Reich](/hex-games/rdtr/main.html)** (RDTR) -
     World War II simulation.
+* **[LGeneral](/hex-games/lgeneral/)** - Maps of the game Panzer General
 
 The source is available on [github](https://github.com/uablrek/hex-games).
 All games are Work in Progress (WiP). Only WS&IM has an AI, the others
