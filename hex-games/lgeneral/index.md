@@ -19,3 +19,4 @@ Keys:
 * `s` - Snow map
 
 * **[Maps](test-map.html?map=map03)** - Check out the maps
+* **[Units](test-units.html)** - List units
