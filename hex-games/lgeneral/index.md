@@ -14,24 +14,16 @@ Show all units. As with maps, the chart is draggable, not scrollable
 
 * **[Units](test-units.html)** - List units
 
-### Maps
+### Scenarios
 
-The maps are draggable, but not scrollable. After you have loaded a
-map (map03/Norway is default), edit the URL in your browser manually,
-and reload, to show other maps, `map01-map38` are available.
+Show scenario maps. The maps are draggable, but not scrollable.
 
 Keys:
 
-* `h` - Toggle the hex grid
-* `c` - Clear map
+* `h` - Toggle the hex grid (and flags)
+* `c` - Clear weather map
 * `m` - Mud map
 * `s` - Snow map
-
-**[Maps](test-map.html?map=map03)** - Check out the maps
-
-### Scenarios
-
-Show scenario maps. You can't change weather or toggle the grid.
 
 * [Poland](test-scenario.html?scenario=Poland) (map01)
 * [Warsaw](test-scenario.html?scenario=Warsaw) (map02)
