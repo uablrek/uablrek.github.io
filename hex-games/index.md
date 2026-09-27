@@ -7,16 +7,19 @@ use HTML5/canvas and JavaScript.
 Current projects:
 
 * **[Wooden Ships & Iron Men](/hex-games/ws-im/)** (WS&IM) - Sea battles with
-    ships from the Napoleonic era.
+    ships from the Napoleonic era. Has AI (computer opponent)
 
-* **[Waterloo](/hex-games/waterloo/)** (NaW) - The famous battle in 1815.
+* **[Waterloo](/hex-games/waterloo/)** (NaW) - The famous battle in 1815
 
 * **[Rise and Decline of the Third Reich](/hex-games/rdtr/main.html)** (RDTR) -
-    World War II simulation.
+    World War II simulation
 
-* **[LGeneral](/hex-games/lgeneral/)** - Maps of the game "Panzer General"
+* **[LGeneral](/hex-games/lgeneral/)** - Maps of the computer game
+    "Panzer General"
+
+* **[The Hill](/hex-games/the-hill/** - My experimental playground. The map
+    looks horrible, but it has a computer opponent (Artificial Ineptness)
 
 The source is available on [github](https://github.com/uablrek/hex-games).
-All games are Work in Progress (WiP). Only WS&IM has an AI, the others
-can only be played Solitarie. The graphics look good, not thanks to
-me, but thanks to artists on [BGG](https://boardgamegeek.com/).
+All games are Work in Progress (WiP). If the graphics looks good, it's no
+thanks to me, but thanks to artists on [BGG](https://boardgamegeek.com/).
