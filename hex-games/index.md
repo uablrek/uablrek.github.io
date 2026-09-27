@@ -17,7 +17,7 @@ Current projects:
 * **[LGeneral](/hex-games/lgeneral/)** - Maps of the computer game
     "Panzer General"
 
-* **[The Hill](/hex-games/the-hill/** - My experimental playground. The map
+* **[The Hill](/hex-games/the-hill/)** - My experimental playground. The map
     looks horrible, but it has a computer opponent (Artificial Ineptness)
 
 The source is available on [github](https://github.com/uablrek/hex-games).
