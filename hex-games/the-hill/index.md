@@ -5,7 +5,7 @@ first with this game. The map is simplistic and looks horrible.
 Please read more on [github](
 https://github.com/uablrek/hex-games/blob/main/the-hill-mp/README.md)
 
-* **[Play as French against AI](the-hill.html?server=local)**
+* **[Play as French against AI](the-hill.html?ai=English)**
 
 The French player tries to occupy "The Hill", which means all 3
 objective hexes (marked with stars), and the English player defends
