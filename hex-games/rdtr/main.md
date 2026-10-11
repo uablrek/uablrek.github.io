@@ -8,5 +8,4 @@ implemented.
 Please read more on [github](
 https://github.com/uablrek/hex-games/blob/main/rdtr/README.md).
 
-* **[1939/Campaign](rdtr-game.html)**
-
+* **[1939/Campaign](rdtr-game.html?mode=offline)**
