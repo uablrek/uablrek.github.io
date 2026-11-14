@@ -4,6 +4,9 @@ started (and abandoned) such projects at least 3 times. The problem
 has been what language, and graphic environment to use. This take I
 use HTML5/canvas and JavaScript.
 
+**NOTE**: the games uses keyboard&mouse, so they can't be played on a
+phone or pad.
+
 Current projects:
 
 * **[Wooden Ships & Iron Men](/hex-games/ws-im/)** (WS&IM) - Sea battles with
