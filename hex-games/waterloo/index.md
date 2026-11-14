@@ -2,9 +2,14 @@ A browser version of the [Napoleon at Waterloo game](
 https://en.wikipedia.org/wiki/Napoleon_at_Waterloo_(board_wargame)) (NaW)
 ([BGG](https://boardgamegeek.com/boardgame/3573/napoleon-at-waterloo)).
 
-**[Work in Progress]** Displacement on retreat is not yet implemented.
+**[Work in Progress]** Rretreat/Advance has bugs
+
+A snapshot is taken on every turn to [localStorage](
+https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage)
+in your browser. If a snapshot is found on load (or reload) you will
+get a choice to use it.
 
 Please read more on [github](
 https://github.com/uablrek/hex-games/blob/main/waterloo/README.md)
 
-* **[Solitarie Game](waterloo.html)** - Only option for now
+* **[Solitarie Game](waterloo.html?server=offline)** - Only option for now
